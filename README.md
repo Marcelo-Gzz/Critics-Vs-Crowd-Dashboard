@@ -121,4 +121,4 @@ Other techniques used: conditional formatting with a diverging gradient to encod
 
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows).
 2. Clone this repository.
-3. Open `dashboard2.pbix`. The dataset.
+3. Open `Critics Vs Crowd.pbix`. The dataset.
