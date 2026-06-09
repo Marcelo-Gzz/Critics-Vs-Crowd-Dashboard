@@ -4,10 +4,8 @@
 
 When a film is universally praised, "is it good?" stops being an interesting question because the answer is always yes. So this project asks a sharper one: among films everyone agrees are great, *where do critics and audiences actually disagree, and what predicts it?*
 
-![Dashboard preview](dashboard.png)
-<!-- Replace dashboard.png with your exported screenshot -->
 
----
+
 
 ## Key findings
 
